@@ -1,5 +1,3 @@
 hal_attribute(dms)
 
 hal_attribute(mlipay)
-
-hal_attribute(motor)
